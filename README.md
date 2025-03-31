@@ -8,13 +8,13 @@ The analysis revealed that offering constant and high discounts may not always b
 Strategic discounting—avoiding constant or excessive discounts—appears to be crucial for maintaining healthy margins.
 
 **Project Components:**
-Data Cleaning: Ensuring accuracy and consistency in the datasets.
+- Data Cleaning: Ensuring accuracy and consistency in the datasets.
 
-Exploratory Data Analysis (EDA): Understanding the data patterns and trends.
+- Exploratory Data Analysis (EDA): Understanding the data patterns and trends.
 
-Visualizations: Generating insights through clear and informative graphs.
+- Visualizations: Generating insights through clear and informative graphs.
 
-Decision-Making Factors: Helping identify the optimal approach to discounting for improving profitability.
+- Decision-Making Factors: Helping identify the optimal approach to discounting for improving profitability.
 
 **Tech Stack:**
 Python, Pandas, NumPy, Matplotlib, Seaborn
